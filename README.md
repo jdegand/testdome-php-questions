@@ -5,6 +5,7 @@
 ## Notes
 
 - `BoatMovements` has broken validation.  See my [JavaScript answer](https://github.com/jdegand/testdome-js-questions/blob/main/BoatMovements.js) for more.
+-  Check the `BoatMovements` [PR](https://github.com/jdegand/testdome-php-questions/pull/1) for another implementation.
 
 ## Useful Resources
 
